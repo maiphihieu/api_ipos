@@ -1,25 +1,16 @@
-﻿# ===== Build stage =====
-FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
-WORKDIR /src
+﻿FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+WORKDIR /app
 
-# copy csproj đúng đường dẫn
-COPY ipos-core/ipos-core/ipos-core.csproj ./ipos-core/
-WORKDIR /src/ipos-core
+COPY iIpos-core.csproj .
 RUN dotnet restore
 
-# copy toàn bộ source
-WORKDIR /src
 COPY . .
+RUN dotnet publish -c Release -o /out
 
-WORKDIR /src/ipos-core/ipos-core
-RUN dotnet publish -c Release -o /app/publish
-
-# ===== Runtime stage =====
-FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
+FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
 EXPOSE 10000
 
-COPY --from=build /app/publish .
-
+COPY --from=build /out .
 ENV ASPNETCORE_URLS=http://0.0.0.0:10000
-ENTRYPOINT ["dotnet", "ipos-core.dll"]
+ENTRYPOINT ["dotnet", "iIpos-core.dll"]
