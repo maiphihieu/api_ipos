@@ -1,0 +1,1081 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IPOS\\Ipos-core\\iIpos-core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Migrations\\20260109022824_InitPostgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iIpos-core\\Migrations\\20260109022824_InitPostgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Migrations\\20260109022428_InitPostgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iIpos-core\\Migrations\\20260109022428_InitPostgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Migrations\\20260109021521_crtedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iIpos-core\\Migrations\\20260109021521_crtedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Migrations\\20260109021109_InitPostgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iIpos-core\\Migrations\\20260109021109_InitPostgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\enum\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\enum\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\iipos-core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\iipos-core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\service\\order\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\service\\order\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\service\\order\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\service\\order\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\service\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\service\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\service\\product\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\service\\product\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\dto\\order\\orderresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\dto\\order\\orderresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\service\\branch\\branchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\service\\branch\\branchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\data\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\data\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\dto\\hubrequests\\staffcallrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\dto\\hubrequests\\staffcallrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\hub\\orderhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\hub\\orderhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\controllers\\branchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\controllers\\branchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\service\\branch\\ibranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\service\\branch\\ibranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\controllers\\tableinfoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\controllers\\tableinfoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\dto\\feedback\\feedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\dto\\feedback\\feedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\data\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\data\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\dto\\order\\createorderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\dto\\order\\createorderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\dto\\payment\\paymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\dto\\payment\\paymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\dto\\user\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\dto\\user\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\dto\\user\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\dto\\user\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\dto\\user\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\dto\\user\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\dto\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\dto\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\service\\store\\storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\service\\store\\storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\service\\category\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\service\\category\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\service\\store\\istoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\service\\store\\istoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\dto\\menu\\menudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\dto\\menu\\menudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\service\\tableinfo\\tableinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\service\\tableinfo\\tableinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\service\\tableinfo\\itableinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\service\\tableinfo\\itableinfoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\data\\tableinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\data\\tableinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\dto\\tableinfo\\tableinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\dto\\tableinfo\\tableinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\service\\category\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\service\\category\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\dto\\tableinfo\\createupdatetableinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\dto\\tableinfo\\createupdatetableinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\dto\\category\\createupdatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\dto\\category\\createupdatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\dto\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\dto\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\data\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\data\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\dto\\order\\updateorderstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\dto\\order\\updateorderstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\data\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\data\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\dto\\store\\storedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\dto\\store\\storedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\dto\\branch\\createupdatebranchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\dto\\branch\\createupdatebranchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\dto\\store\\createupdatestoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\dto\\store\\createupdatestoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\dto\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\dto\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\dto\\product\\createupdateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\dto\\product\\createupdateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\dto\\pagination\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\dto\\pagination\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\dto\\branch\\branchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\dto\\branch\\branchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|d:\\ipos\\ipos-core\\iipos-core\\iipos-core\\data\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A78DD40-1FBE-45B1-BF8E-A7525F887440}|iIpos-core\\iIpos-core.csproj|solutionrelative:iipos-core\\data\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Migrations\\20251002091334_updatestorevsbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:iIpos-core\\Migrations\\20251002091334_updatestorevsbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Restuarant\\Manage tableAPI\\Manage table\\Data\\MyDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260109022824_InitPostgres.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Migrations\\20260109022824_InitPostgres.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Migrations\\20260109022824_InitPostgres.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Migrations\\20260109022824_InitPostgres.cs",
+              "RelativeToolTip": "iIpos-core\\Migrations\\20260109022824_InitPostgres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T02:28:24.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260109022428_InitPostgres.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Migrations\\20260109022428_InitPostgres.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Migrations\\20260109022428_InitPostgres.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Migrations\\20260109022428_InitPostgres.cs",
+              "RelativeToolTip": "iIpos-core\\Migrations\\20260109022428_InitPostgres.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T02:24:28.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260109021521_crtedata.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Migrations\\20260109021521_crtedata.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Migrations\\20260109021521_crtedata.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Migrations\\20260109021521_crtedata.cs",
+              "RelativeToolTip": "iIpos-core\\Migrations\\20260109021521_crtedata.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T02:15:21.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260109021109_InitPostgres.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Migrations\\20260109021109_InitPostgres.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Migrations\\20260109021109_InitPostgres.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Migrations\\20260109021109_InitPostgres.cs",
+              "RelativeToolTip": "iIpos-core\\Migrations\\20260109021109_InitPostgres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T02:11:09.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "iIpos-core.csproj",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\iIpos-core.csproj",
+              "RelativeDocumentMoniker": "iIpos-core\\iIpos-core.csproj",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\iIpos-core.csproj",
+              "RelativeToolTip": "iIpos-core\\iIpos-core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-08T05:14:16.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Data\\MyDbContext.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "iIpos-core\\Data\\MyDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Program.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Program.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Program.cs",
+              "RelativeToolTip": "iIpos-core\\Program.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAmwF0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\appsettings.json",
+              "RelativeDocumentMoniker": "iIpos-core\\appsettings.json",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\appsettings.json",
+              "RelativeToolTip": "iIpos-core\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-08T05:14:16.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Data\\User.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Data\\User.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Data\\User.cs",
+              "RelativeToolTip": "iIpos-core\\Data\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Enum\\Class.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Enum\\Class.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Enum\\Class.cs",
+              "RelativeToolTip": "iIpos-core\\Enum\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "iIpos-core\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAADwv6AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "iIpos-core\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Properties\\launchSettings.json",
+              "RelativeToolTip": "iIpos-core\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-08T05:14:16.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "iIpos-core\\appsettings.Development.json",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\appsettings.Development.json",
+              "RelativeToolTip": "iIpos-core\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-08T05:14:16.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StaffCallRequest.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\HubRequests\\StaffCallRequest.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Dto\\HubRequests\\StaffCallRequest.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\HubRequests\\StaffCallRequest.cs",
+              "RelativeToolTip": "iIpos-core\\Dto\\HubRequests\\StaffCallRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Data\\Category.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Data\\Category.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Data\\Category.cs",
+              "RelativeToolTip": "iIpos-core\\Data\\Category.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Data\\Order.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Data\\Order.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Data\\Order.cs",
+              "RelativeToolTip": "iIpos-core\\Data\\Order.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\WeatherForecast.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\WeatherForecast.cs",
+              "RelativeToolTip": "iIpos-core\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StoresController.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Controllers\\StoresController.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Controllers\\StoresController.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Controllers\\StoresController.cs",
+              "RelativeToolTip": "iIpos-core\\Controllers\\StoresController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAxwCYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "iIpos-core\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "iIpos-core\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Controllers\\FeedbackController.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "iIpos-core\\Controllers\\FeedbackController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\Product\\ProductService.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Service\\Product\\ProductService.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\Product\\ProductService.cs",
+              "RelativeToolTip": "iIpos-core\\Service\\Product\\ProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\Order\\OrderService.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Service\\Order\\OrderService.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\Order\\OrderService.cs",
+              "RelativeToolTip": "iIpos-core\\Service\\Order\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\Order\\IOrderService.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Service\\Order\\IOrderService.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\Order\\IOrderService.cs",
+              "RelativeToolTip": "iIpos-core\\Service\\Order\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderHub.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Hub\\OrderHub.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Hub\\OrderHub.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Hub\\OrderHub.cs",
+              "RelativeToolTip": "iIpos-core\\Hub\\OrderHub.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAADwv2EAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BranchesController.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Controllers\\BranchesController.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Controllers\\BranchesController.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Controllers\\BranchesController.cs",
+              "RelativeToolTip": "iIpos-core\\Controllers\\BranchesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBUAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "iIpos-core\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAxwEQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBranchService.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\Branch\\IBranchService.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Service\\Branch\\IBranchService.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\Branch\\IBranchService.cs",
+              "RelativeToolTip": "iIpos-core\\Service\\Branch\\IBranchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderResultDto.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Order\\OrderResultDto.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Dto\\Order\\OrderResultDto.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Order\\OrderResultDto.cs",
+              "RelativeToolTip": "iIpos-core\\Dto\\Order\\OrderResultDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwBAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\Product\\IProductService.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Service\\Product\\IProductService.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\Product\\IProductService.cs",
+              "RelativeToolTip": "iIpos-core\\Service\\Product\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BranchService.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\Branch\\BranchService.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Service\\Branch\\BranchService.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\Branch\\BranchService.cs",
+              "RelativeToolTip": "iIpos-core\\Service\\Branch\\BranchService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TableInfosController.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Controllers\\TableInfosController.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Controllers\\TableInfosController.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Controllers\\TableInfosController.cs",
+              "RelativeToolTip": "iIpos-core\\Controllers\\TableInfosController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\User\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Dto\\User\\RegisterUserDto.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\User\\RegisterUserDto.cs",
+              "RelativeToolTip": "iIpos-core\\Dto\\User\\RegisterUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PaymentRequestDto.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Payment\\PaymentRequestDto.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Dto\\Payment\\PaymentRequestDto.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Payment\\PaymentRequestDto.cs",
+              "RelativeToolTip": "iIpos-core\\Dto\\Payment\\PaymentRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Data\\Feedback.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Data\\Feedback.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Data\\Feedback.cs",
+              "RelativeToolTip": "iIpos-core\\Data\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FeedbackDto.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Feedback\\FeedbackDto.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Dto\\Feedback\\FeedbackDto.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Feedback\\FeedbackDto.cs",
+              "RelativeToolTip": "iIpos-core\\Dto\\Feedback\\FeedbackDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateOrderRequestDto.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Order\\CreateOrderRequestDto.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Dto\\Order\\CreateOrderRequestDto.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Order\\CreateOrderRequestDto.cs",
+              "RelativeToolTip": "iIpos-core\\Dto\\Order\\CreateOrderRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\User\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Dto\\User\\UpdateUserDto.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\User\\UpdateUserDto.cs",
+              "RelativeToolTip": "iIpos-core\\Dto\\User\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserResponseDto.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\User\\UserResponseDto.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Dto\\User\\UserResponseDto.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\User\\UserResponseDto.cs",
+              "RelativeToolTip": "iIpos-core\\Dto\\User\\UserResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\User\\UserDto.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Dto\\User\\UserDto.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\User\\UserDto.cs",
+              "RelativeToolTip": "iIpos-core\\Dto\\User\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\Category\\CategoryService.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Service\\Category\\CategoryService.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\Category\\CategoryService.cs",
+              "RelativeToolTip": "iIpos-core\\Service\\Category\\CategoryService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "StoreService.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\Store\\StoreService.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Service\\Store\\StoreService.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\Store\\StoreService.cs",
+              "RelativeToolTip": "iIpos-core\\Service\\Store\\StoreService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IStoreService.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\Store\\IStoreService.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Service\\Store\\IStoreService.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\Store\\IStoreService.cs",
+              "RelativeToolTip": "iIpos-core\\Service\\Store\\IStoreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ITableInfoService.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\TableInfo\\ITableInfoService.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Service\\TableInfo\\ITableInfoService.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\TableInfo\\ITableInfoService.cs",
+              "RelativeToolTip": "iIpos-core\\Service\\TableInfo\\ITableInfoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MenuDto.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Menu\\MenuDto.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Dto\\Menu\\MenuDto.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Menu\\MenuDto.cs",
+              "RelativeToolTip": "iIpos-core\\Dto\\Menu\\MenuDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TableInfoDto.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\TableInfo\\TableInfoDto.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Dto\\TableInfo\\TableInfoDto.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\TableInfo\\TableInfoDto.cs",
+              "RelativeToolTip": "iIpos-core\\Dto\\TableInfo\\TableInfoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TableInfoService.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\TableInfo\\TableInfoService.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Service\\TableInfo\\TableInfoService.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\TableInfo\\TableInfoService.cs",
+              "RelativeToolTip": "iIpos-core\\Service\\TableInfo\\TableInfoService.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAgwIIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TableInfo.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Data\\TableInfo.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Data\\TableInfo.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Data\\TableInfo.cs",
+              "RelativeToolTip": "iIpos-core\\Data\\TableInfo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\Category\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Service\\Category\\ICategoryService.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Service\\Category\\ICategoryService.cs",
+              "RelativeToolTip": "iIpos-core\\Service\\Category\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CreateUpdateTableInfoDto.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\TableInfo\\CreateUpdateTableInfoDto.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Dto\\TableInfo\\CreateUpdateTableInfoDto.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\TableInfo\\CreateUpdateTableInfoDto.cs",
+              "RelativeToolTip": "iIpos-core\\Dto\\TableInfo\\CreateUpdateTableInfoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Data\\Product.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Data\\Product.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Data\\Product.cs",
+              "RelativeToolTip": "iIpos-core\\Data\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CreateUpdateCategoryDto.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Category\\CreateUpdateCategoryDto.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Dto\\Category\\CreateUpdateCategoryDto.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Category\\CreateUpdateCategoryDto.cs",
+              "RelativeToolTip": "iIpos-core\\Dto\\Category\\CreateUpdateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Category\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Dto\\Category\\CategoryDto.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Category\\CategoryDto.cs",
+              "RelativeToolTip": "iIpos-core\\Dto\\Category\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Data\\Branch.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Data\\Branch.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Data\\Branch.cs",
+              "RelativeToolTip": "iIpos-core\\Data\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UpdateOrderStatusDto.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Order\\UpdateOrderStatusDto.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Dto\\Order\\UpdateOrderStatusDto.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Order\\UpdateOrderStatusDto.cs",
+              "RelativeToolTip": "iIpos-core\\Dto\\Order\\UpdateOrderStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Store.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Data\\Store.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Data\\Store.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Data\\Store.cs",
+              "RelativeToolTip": "iIpos-core\\Data\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "StoreDto.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Store\\StoreDto.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Dto\\Store\\StoreDto.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Store\\StoreDto.cs",
+              "RelativeToolTip": "iIpos-core\\Dto\\Store\\StoreDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CreateUpdateBranchDto.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Branch\\CreateUpdateBranchDto.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Dto\\Branch\\CreateUpdateBranchDto.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Branch\\CreateUpdateBranchDto.cs",
+              "RelativeToolTip": "iIpos-core\\Dto\\Branch\\CreateUpdateBranchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CreateUpdateStoreDto.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Store\\CreateUpdateStoreDto.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Dto\\Store\\CreateUpdateStoreDto.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Store\\CreateUpdateStoreDto.cs",
+              "RelativeToolTip": "iIpos-core\\Dto\\Store\\CreateUpdateStoreDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Product\\ProductDto.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Dto\\Product\\ProductDto.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Product\\ProductDto.cs",
+              "RelativeToolTip": "iIpos-core\\Dto\\Product\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CreateUpdateProductDto.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Product\\CreateUpdateProductDto.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Dto\\Product\\CreateUpdateProductDto.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Product\\CreateUpdateProductDto.cs",
+              "RelativeToolTip": "iIpos-core\\Dto\\Product\\CreateUpdateProductDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Pagination\\PagedResult.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Dto\\Pagination\\PagedResult.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Pagination\\PagedResult.cs",
+              "RelativeToolTip": "iIpos-core\\Dto\\Pagination\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "BranchDto.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Branch\\BranchDto.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Dto\\Branch\\BranchDto.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Dto\\Branch\\BranchDto.cs",
+              "RelativeToolTip": "iIpos-core\\Dto\\Branch\\BranchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Data\\OrderItem.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Data\\OrderItem.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Data\\OrderItem.cs",
+              "RelativeToolTip": "iIpos-core\\Data\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T05:14:16.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20251002091334_updatestorevsbranch.cs",
+              "DocumentMoniker": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Migrations\\20251002091334_updatestorevsbranch.cs",
+              "RelativeDocumentMoniker": "iIpos-core\\Migrations\\20251002091334_updatestorevsbranch.cs",
+              "ToolTip": "D:\\IPOS\\Ipos-core\\iIpos-core\\iIpos-core\\Migrations\\20251002091334_updatestorevsbranch.cs",
+              "RelativeToolTip": "iIpos-core\\Migrations\\20251002091334_updatestorevsbranch.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T09:13:35.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\Restuarant\\Manage tableAPI\\Manage table\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Restuarant\\Manage tableAPI\\Manage table\\Data\\MyDbContext.cs",
+              "ToolTip": "D:\\Restuarant\\Manage tableAPI\\Manage table\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\Restuarant\\Manage tableAPI\\Manage table\\Data\\MyDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:40:36.036Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

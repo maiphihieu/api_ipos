@@ -1,13 +1,15 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Options;
+﻿using iIpos_core.Enums;
+using Microsoft.EntityFrameworkCore;
 
 namespace iIpos_core.Data
 {
     public class MyDbContext : DbContext
     {
-      
-        public MyDbContext(DbContextOptions options) : base(options){}
-        #region Dbset
+        public MyDbContext(DbContextOptions<MyDbContext> options)
+            : base(options)
+        {
+        }
+
         public DbSet<Category> Categories { get; set; } = null!;
         public DbSet<Product> Products { get; set; } = null!;
         public DbSet<Order> Orders { get; set; } = null!;
@@ -17,6 +19,7 @@ namespace iIpos_core.Data
         public DbSet<Branch> Branches { get; set; } = null!;
         public DbSet<User> Users { get; set; } = null!;
         public DbSet<Feedback> Feedbacks { get; set; } = null!;
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
@@ -44,8 +47,15 @@ namespace iIpos_core.Data
                 .WithMany()
                 .HasForeignKey(oi => oi.ProductId)
                 .OnDelete(DeleteBehavior.Restrict);
+            modelBuilder.Entity<User>().HasData(
+        new User
+        {
+            Id = Guid.Parse("2825E041-9C1F-490E-A88B-D455CDEDAD9A"),
+            Username = "admin",
+            PasswordHash = BCrypt.Net.BCrypt.HashPassword("123456"),
+            Role = Role.Admin
         }
-        #endregion
-
+    );
+        }
     }
 }

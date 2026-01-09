@@ -15,7 +15,7 @@ namespace iIpos_core.Data
         public string PasswordHash { get; set; } = null!;
         [Required]
         [JsonConverter(typeof(JsonStringEnumConverter))] 
-        [Column(TypeName = "nvarchar(24)")]
+       
         public Role Role { get; set; } = Role.Staff; 
     }
 }

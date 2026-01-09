@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("iIpos-core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b33aa29345e2a6fa2a50c0dc4242486b996d2cf0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b69ff693414f0b0c0a1f9f14aa2b6e6d5d2f2ed2")]
 [assembly: System.Reflection.AssemblyProductAttribute("iIpos-core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("iIpos-core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

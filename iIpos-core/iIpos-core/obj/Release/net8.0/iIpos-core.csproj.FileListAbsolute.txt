@@ -176,4 +176,4 @@ D:\IPOS\Ipos-core\iIpos-core\iIpos-core\obj\Release\net8.0\refint\iIpos-core.dll
 D:\IPOS\Ipos-core\iIpos-core\iIpos-core\obj\Release\net8.0\iIpos-core.pdb
 D:\IPOS\Ipos-core\iIpos-core\iIpos-core\obj\Release\net8.0\iIpos-core.genruntimeconfig.cache
 D:\IPOS\Ipos-core\iIpos-core\iIpos-core\obj\Release\net8.0\ref\iIpos-core.dll
-D:\IPOS\Ipos-core\iIpos-core\iIpos-core\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+D:\IPOS\Ipos-core\iIpos-core\iIpos-core\obj\Release\net8.0\swae.build.ex.cache
